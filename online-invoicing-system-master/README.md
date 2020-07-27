@@ -78,7 +78,7 @@ If your server has cPanel installed, here is a [screencast explaining how to ins
 
 3. In your web browser, visit `http://server.com/app-folder/` (change `server.com` above to the actual domain name or IP address of your server, and change `app-folder` to the name of the folder inside your document root where you uploaded the files in step 2).
 
-4. You should now see the setup wizard in your browser. Just follow the steps!
+4. You should now see the setup wizard in your browser. Just follow the steps!!
 
 ## Customization
 
