@@ -89,6 +89,6 @@ Since this application was created using AppGini, you can easily customize it by
 * Changing the options/behavior of any table/field in your application.
 * For more details, check [the AppGini tutorials](https://bigprof.com/appgini/screencasts/).
 
-You can also perform more advanced customization, like adding reports, changing validation rules, adding business logic, ... etc. through hooks. Please refer to the [hooks documentation](https://bigprof.com/appgini/help/advanced-topics/hooks) for more details. For
+You can also perform more advanced customization, like adding reports, changing validation rules, adding business logic, ... etc. through hooks. Please refer to the [hooks documentation](https://bigprof.com/appgini/help/advanced-topics/hooks) for more details. Forn
 
 _**Contributions to this project are always welcome :)**_
